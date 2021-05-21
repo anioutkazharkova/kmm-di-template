@@ -4,7 +4,6 @@ import android.os.Bundle
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 import com.azharkova.kmmdi.shared.Greeting
-import com.azharkova.sampledi.androidApp.R
 
 fun greet(): String {
     return Greeting().greeting()
