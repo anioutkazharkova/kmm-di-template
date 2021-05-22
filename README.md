@@ -1,5 +1,5 @@
 # KMM di template
-Template (pure) for KMM application with DI support.  Uses [Multiplatform-DI] (https://github.com/anioutkazharkova/di-multiplatform-lib) for Dependency Injection
+Template (pure) for KMM application with DI support.  Uses [Multiplatform-DI](https://github.com/anioutkazharkova/di-multiplatform-lib) for Dependency Injection
 
 
 ## Architecture and common concurrency
