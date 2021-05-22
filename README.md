@@ -1,6 +1,16 @@
 # KMM di template
 Template (pure) for KMM application with DI support.  Uses [Multiplatform-DI](https://github.com/anioutkazharkova/di-multiplatform-lib) for Dependency Injection
 
+## Features 
+
+- [X] Common architecture (VIP)
+- [X] Common dependency injection
+- [X] Coroutines for concurrency
+
+## Next
+- [ ] Support of Kotlin 1.5.0
+- [ ] Suport Coroutine Flows 
+
 
 ## Architecture and common concurrency
 
